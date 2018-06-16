@@ -11,10 +11,10 @@
 /log/*
 /tmp/*
 !/log/.keep
-!/tmp/.keep
+!/tmp/.ke
 
-.idea/
 .idea/workspace.xml
+.idea/
 .idea/cryptocurrency_rails.iml
 
 /config/secrets.yml
