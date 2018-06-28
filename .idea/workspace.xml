@@ -4,7 +4,6 @@
     <list default="true" id="afb1e226-fe58-4370-a448-c98852be811c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/views/cryptos/index.html.erb" afterPath="$PROJECT_DIR$/app/views/cryptos/index.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/cryptos/show.html.erb" afterPath="$PROJECT_DIR$/app/views/cryptos/show.html.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,20 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/cryptos/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/cryptos/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
+            <state relative-caret-position="345">
               <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
@@ -83,8 +82,8 @@
         <option value="$PROJECT_DIR$/app/views/cryptos/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/cryptos_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/cryptos/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/cryptos/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/cryptos/index.html.erb" />
       </list>
     </option>
   </component>
@@ -321,12 +320,12 @@
       <workItem from="1528561728333" duration="1492000" />
       <workItem from="1528910782426" duration="437000" />
       <workItem from="1528912057928" duration="18363000" />
-      <workItem from="1530052239220" duration="9446000" />
+      <workItem from="1530052239220" duration="10072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29738000" />
+    <option name="totallyTimeSpent" value="30364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="604" height="736" extended-state="0" />
@@ -675,18 +674,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cryptos/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/cryptos/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cryptos/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/cryptos/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="171">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding />
         </state>
       </provider>
